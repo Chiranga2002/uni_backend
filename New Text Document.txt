@@ -1,0 +1,1 @@
+mongodb+srv://admin:12345@project1.1mo28gx.mongodb.net/?appName=project1
