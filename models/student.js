@@ -13,4 +13,4 @@ const Student=mongoose.model("student",studentSchema)
 
 export default Student;
 
-//Mongo is the database name for this project in mongodb
+//Mongo is the database name for this project in mongodb atlas
