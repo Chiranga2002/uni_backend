@@ -12,4 +12,4 @@ const Product = mongoose.model("products",productSchema);
 
 export default Product;
 
-//comment
+//comments
